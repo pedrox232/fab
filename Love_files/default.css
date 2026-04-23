@@ -42,7 +42,7 @@ a {
 	position: absolute;
 	left: 60px;
 	top: 590px;
-	font-size: 28px;
+	font-size: 20px;
 	display: none;
 }
 
@@ -81,5 +81,5 @@ a {
 }
 
 .space {
-	margin-right: 140px;
+	margin-right: 135px;
 }
